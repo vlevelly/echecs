@@ -1,0 +1,1217 @@
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#LandingPage {
+		position: absolute;
+		width: 1920px;
+		height: 3048px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: LandingPage;
+		--web-view-id: LandingPage;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	#FOOTER {
+		position: absolute;
+		width: 1920px;
+		height: 200px;
+		left: 0px;
+		top: 2848px;
+		overflow: visible;
+	}
+	#BG_FOOTER {
+		fill: rgba(33,25,33,1);
+	}
+	.BG_FOOTER {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 200px;
+		left: 0px;
+		top: 0px;
+	}
+	#Groupe_10 {
+		position: absolute;
+		width: 355px;
+		height: 71px;
+		left: 554px;
+		top: 65px;
+		overflow: visible;
+	}
+	#Composant_1__7 {
+		position: absolute;
+		width: 43px;
+		height: 17px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Accueil {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 44px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: PT Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		text-transform: capitalize;
+	}
+	#Composant_1__13 {
+		position: absolute;
+		width: 62px;
+		height: 17px;
+		left: 0px;
+		top: 27px;
+		overflow: visible;
+	}
+	#Calendrier {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 63px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: PT Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		text-transform: capitalize;
+	}
+	#Composant_1__14 {
+		position: absolute;
+		width: 136px;
+		height: 17px;
+		left: 0px;
+		top: 54px;
+		overflow: visible;
+	}
+	#Informations_pratiques {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 137px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: PT Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		text-transform: capitalize;
+	}
+	#Composant_1__15 {
+		position: absolute;
+		width: 79px;
+		height: 17px;
+		left: 276px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Comptitions {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 80px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: PT Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		text-transform: capitalize;
+	}
+	#Composant_1__16 {
+		position: absolute;
+		width: 67px;
+		height: 17px;
+		left: 276px;
+		top: 27px;
+		overflow: visible;
+	}
+	#Vie_du_club {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 68px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: PT Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		text-transform: capitalize;
+	}
+	#Composant_1__17 {
+		position: absolute;
+		width: 45px;
+		height: 17px;
+		left: 276px;
+		top: 54px;
+		overflow: visible;
+	}
+	#Contact {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 46px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: PT Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		text-transform: capitalize;
+	}
+	#LOGO {
+		position: absolute;
+		width: 286px;
+		height: 191px;
+		left: 191px;
+		top: 5px;
+		overflow: visible;
+	}
+	#Rectangle_1 {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 76px;
+		height: 39px;
+		left: 109px;
+		top: 89px;
+	}
+	#Sans_titre-1 {
+		position: absolute;
+		width: 286px;
+		height: 191px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Copyright__2021_CHESS_Tous_dro {
+		left: 822px;
+		top: 178px;
+		position: absolute;
+		overflow: visible;
+		width: 277px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: PT Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(170,170,170,1);
+	}
+	#MAIN_2 {
+		position: absolute;
+		width: 1548.743px;
+		height: 858.486px;
+		left: 274px;
+		top: 2084px;
+		overflow: visible;
+	}
+	#bg_clock {
+		opacity: 0.2;
+		position: absolute;
+		width: 479.486px;
+		height: 479.486px;
+		left: 1069.257px;
+		top: 379px;
+		overflow: visible;
+	}
+	#BTN_INSCRIPTION {
+		position: absolute;
+		width: 168px;
+		height: 51px;
+		left: 4px;
+		top: 633px;
+		overflow: visible;
+		padding: 14px 26px 13px 27px;
+	}
+	#Rectangle_2 {
+		fill: rgba(33,25,33,0.302);
+		stroke: rgba(33,25,33,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_2 {
+		position: absolute;
+		overflow: visible;
+		width: 168px;
+		height: 51px;
+		left: 0px;
+		top: 0px;
+	}
+	#Je_minscris {
+		left: 27px;
+		top: 14px;
+		position: absolute;
+		overflow: visible;
+		width: 116px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(33,25,33,1);
+	}
+	#Oui_jaccepte {
+		left: 23px;
+		top: 576px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: PT Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(33,25,33,1);
+	}
+	#Base {
+		fill: transparent;
+		stroke: rgba(33,25,33,1);
+		stroke-width: 0.5px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Base {
+		position: absolute;
+		overflow: visible;
+		width: 14px;
+		height: 14px;
+		left: 4px;
+		top: 578px;
+	}
+	#En_soumettant_ce_formulaire_ja {
+		left: 4px;
+		top: 548px;
+		position: absolute;
+		overflow: visible;
+		width: 1492px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: PT Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(33,25,33,1);
+	}
+	#EMAIL {
+		position: absolute;
+		width: 398px;
+		height: 40px;
+		left: 4px;
+		top: 479px;
+		overflow: visible;
+	}
+	#Rectangle_4 {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(33,25,33,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4 {
+		position: absolute;
+		overflow: visible;
+		width: 398px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+	#Email {
+		left: 20px;
+		top: 12px;
+		position: absolute;
+		overflow: visible;
+		width: 35px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(33,25,33,1);
+	}
+	#TL {
+		position: absolute;
+		width: 398px;
+		height: 40px;
+		left: 4px;
+		top: 419px;
+		overflow: visible;
+	}
+	#Rectangle_4_bb {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(33,25,33,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_bb {
+		position: absolute;
+		overflow: visible;
+		width: 398px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+	#Tl {
+		left: 20px;
+		top: 12px;
+		position: absolute;
+		overflow: visible;
+		width: 24px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(33,25,33,1);
+	}
+	#VILLE {
+		position: absolute;
+		width: 398px;
+		height: 40px;
+		left: 280px;
+		top: 359px;
+		overflow: visible;
+	}
+	#Rectangle_4_be {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(33,25,33,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_be {
+		position: absolute;
+		overflow: visible;
+		width: 398px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+	#Ville {
+		left: 20px;
+		top: 12px;
+		position: absolute;
+		overflow: visible;
+		width: 26px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(33,25,33,1);
+	}
+	#CODE_POSTAL {
+		position: absolute;
+		width: 260px;
+		height: 40px;
+		left: 4px;
+		top: 359px;
+		overflow: visible;
+	}
+	#Rectangle_4_bh {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(33,25,33,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_bh {
+		position: absolute;
+		overflow: visible;
+		width: 260px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+	#Code_Postal {
+		left: 20px;
+		top: 12px;
+		position: absolute;
+		overflow: visible;
+		width: 78px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(33,25,33,1);
+	}
+	#ADRESSE {
+		position: absolute;
+		width: 398px;
+		height: 40px;
+		left: 4px;
+		top: 299px;
+		overflow: visible;
+	}
+	#Rectangle_4_bk {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(33,25,33,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_bk {
+		position: absolute;
+		overflow: visible;
+		width: 398px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+	#Adresse {
+		left: 20px;
+		top: 12px;
+		position: absolute;
+		overflow: visible;
+		width: 52px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(33,25,33,1);
+	}
+	#PRNOM {
+		position: absolute;
+		width: 398px;
+		height: 40px;
+		left: 418px;
+		top: 239px;
+		overflow: visible;
+	}
+	#Rectangle_4_bn {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(33,25,33,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_bn {
+		position: absolute;
+		overflow: visible;
+		width: 398px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+	#Prnom {
+		left: 20px;
+		top: 12px;
+		position: absolute;
+		overflow: visible;
+		width: 50px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(33,25,33,1);
+	}
+	#NOM {
+		position: absolute;
+		width: 398px;
+		height: 40px;
+		left: 4px;
+		top: 239px;
+		overflow: visible;
+	}
+	#Rectangle_4_bq {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(33,25,33,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_bq {
+		position: absolute;
+		overflow: visible;
+		width: 398px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+	#NOM_br {
+		left: 20px;
+		top: 12px;
+		position: absolute;
+		overflow: visible;
+		width: 34px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(33,25,33,1);
+	}
+	#CIVILIT {
+		position: absolute;
+		width: 260px;
+		height: 40px;
+		left: 4px;
+		top: 179px;
+		overflow: visible;
+	}
+	#Rectangle_4_bt {
+		fill: rgba(255,255,255,1);
+		stroke: rgba(33,25,33,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_4_bt {
+		position: absolute;
+		overflow: visible;
+		width: 260px;
+		height: 40px;
+		left: 0px;
+		top: 0px;
+	}
+	#Civilit {
+		left: 20px;
+		top: 12px;
+		position: absolute;
+		overflow: visible;
+		width: 42px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(33,25,33,1);
+	}
+	#Groupe_6 {
+		position: absolute;
+		width: 39px;
+		height: 40px;
+		left: 221px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Cap_bx {
+		fill: url(#Cap_bx);
+		stroke: rgba(0,0,0,0.102);
+		stroke-width: 0.5px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Cap_bx {
+		filter: drop-shadow(0px 0.5px 1px rgba(0, 0, 0, 0.278));
+		position: absolute;
+		overflow: visible;
+		width: 42px;
+		height: 43px;
+		left: 0px;
+		top: 0px;
+	}
+	#Arrows {
+		fill: rgba(0,0,0,0);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 1.2999999523162842px;
+		stroke-linejoin: round;
+		stroke-linecap: round;
+		stroke-miterlimit: 10;
+		shape-rendering: auto;
+	}
+	.Arrows {
+		overflow: visible;
+		position: absolute;
+		width: 8.337px;
+		height: 5.076px;
+		left: 16.011px;
+		top: 18.824px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#SUBTITLE_MAIN2 {
+		left: 4px;
+		top: 97px;
+		position: absolute;
+		overflow: visible;
+		width: 967px;
+		height: 36px;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(33,25,33,1);
+	}
+	#TITLE_MAIN2 {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 327px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: PT Sans;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 60px;
+		color: rgba(33,25,33,1);
+		text-transform: uppercase;
+	}
+	#MAIN_1 {
+		position: absolute;
+		width: 1688.678px;
+		height: 858px;
+		left: -46.678px;
+		top: 1143px;
+		overflow: visible;
+	}
+	#bg_horse {
+		opacity: 0.2;
+		position: absolute;
+		width: 611.092px;
+		height: 611.092px;
+		left: 0px;
+		top: 121.954px;
+		overflow: visible;
+	}
+	#IMG_3 {
+		position: absolute;
+		width: 364px;
+		height: 457px;
+		left: 1324.678px;
+		top: 306px;
+		overflow: visible;
+	}
+	#Actualits {
+		transform: translate(0px, 0px) matrix(1,0,0,1,-46,376) rotate(-90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 128px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: PT Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(33,25,33,1);
+	}
+	#pexels-alex-green-5691847 {
+		position: absolute;
+		width: 318px;
+		height: 457px;
+		left: 46px;
+		top: 0px;
+		overflow: visible;
+	}
+	#IMG_2 {
+		position: absolute;
+		width: 512px;
+		height: 647px;
+		left: 747.678px;
+		top: 211px;
+		overflow: visible;
+	}
+	#Comptitions_b {
+		transform: translate(0px, 0px) matrix(1,0,0,1,-62.5,549.5) rotate(-90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 161px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: PT Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(33,25,33,1);
+	}
+	#pexels-tima-miroshnichenko-659 {
+		position: absolute;
+		width: 466px;
+		height: 647px;
+		left: 46px;
+		top: 0px;
+		overflow: visible;
+	}
+	#IMG_1 {
+		position: absolute;
+		width: 364px;
+		height: 457px;
+		left: 317.678px;
+		top: 306px;
+		overflow: visible;
+	}
+	#pexels-vlada-karpovich-6114958 {
+		position: absolute;
+		width: 318px;
+		height: 457px;
+		left: 46px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Championnats_de_France {
+		transform: translate(0px, 0px) matrix(1,0,0,1,-133,289) rotate(-90deg);
+		transform-origin: center;
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 302px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: PT Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(33,25,33,1);
+	}
+	#SUBTITLE_MAIN1 {
+		left: 324.678px;
+		top: 97px;
+		position: absolute;
+		overflow: visible;
+		width: 967px;
+		height: 90px;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(33,25,33,1);
+	}
+	#TITLE_MAIN1 {
+		left: 321.678px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 566px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: PT Sans;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 60px;
+		color: rgba(33,25,33,1);
+		text-transform: uppercase;
+	}
+	#header {
+		position: absolute;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#fond {
+		position: absolute;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#pexels-charlie-solorzano-17628 {
+		position: absolute;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#SHADOW_ci {
+		opacity: 0.403;
+		fill: url(#SHADOW_ci);
+	}
+	.SHADOW_ci {
+		position: absolute;
+		overflow: visible;
+		width: 1920px;
+		height: 1080px;
+		left: 0px;
+		top: 0px;
+	}
+	#BTN_DCOUVRIR {
+		position: absolute;
+		width: 238px;
+		height: 51px;
+		left: 1094px;
+		top: 569px;
+		overflow: visible;
+		padding: 14px 26px 13px 27px;
+	}
+	#Rectangle_2_ck {
+		fill: rgba(255,255,255,0);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_2_ck {
+		position: absolute;
+		overflow: visible;
+		width: 238px;
+		height: 51px;
+		left: 0px;
+		top: 0px;
+	}
+	#Je_dcouvre_le_club {
+		left: 27px;
+		top: 14px;
+		position: absolute;
+		overflow: visible;
+		width: 186px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#BTN_INSCRIPTION_cm {
+		position: absolute;
+		width: 168px;
+		height: 51px;
+		left: 1366px;
+		top: 569px;
+		overflow: visible;
+		padding: 14px 26px 13px 27px;
+	}
+	#Rectangle_2_cn {
+		fill: rgba(255,255,255,0);
+		stroke: rgba(255,255,255,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_2_cn {
+		position: absolute;
+		overflow: visible;
+		width: 168px;
+		height: 51px;
+		left: 0px;
+		top: 0px;
+	}
+	#Je_minscris_co {
+		left: 27px;
+		top: 14px;
+		position: absolute;
+		overflow: visible;
+		width: 116px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#TITLE_HEADER {
+		position: absolute;
+		width: 508px;
+		height: 151px;
+		left: 288px;
+		top: 519px;
+		overflow: visible;
+	}
+	#n_Pour_moi__les_checs_ne_sont_ {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 509px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: PT Sans;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 40px;
+		color: rgba(255,255,255,1);
+	}
+	#Alexandre_Alekhine {
+		left: 231px;
+		top: 122px;
+		position: absolute;
+		overflow: visible;
+		width: 142px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Helvetica Neue;
+		font-style: italic;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(255,255,255,1);
+	}
+	#NAV {
+		position: absolute;
+		width: 867px;
+		height: 24px;
+		left: 527px;
+		top: 274px;
+		overflow: visible;
+	}
+	#Composant_1__1 {
+		position: absolute;
+		width: 61px;
+		height: 24px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Accueil_cu {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 62px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: PT Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+		text-transform: capitalize;
+	}
+	#Composant_1__2 {
+		position: absolute;
+		width: 88px;
+		height: 24px;
+		left: 111px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Calendrier_cw {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 89px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: PT Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+		text-transform: capitalize;
+	}
+	#Composant_1__3 {
+		position: absolute;
+		width: 194px;
+		height: 24px;
+		left: 249px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Informations_pratiques_cy {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 195px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: PT Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+		text-transform: capitalize;
+	}
+	#Composant_1__4 {
+		position: absolute;
+		width: 113px;
+		height: 24px;
+		left: 493px;
+		top: 0px;
+		overflow: visible;
+	}
+	#comptitions {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 114px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: PT Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+		text-transform: capitalize;
+	}
+	#Composant_1__5 {
+		position: absolute;
+		width: 95px;
+		height: 24px;
+		left: 656px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Vie_du_club_c {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 96px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: PT Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+		text-transform: capitalize;
+	}
+	#Composant_1__6 {
+		position: absolute;
+		width: 65px;
+		height: 24px;
+		left: 802px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Contact_c {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: visible;
+		width: 66px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: PT Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+		text-transform: capitalize;
+	}
+	#LOGO_c {
+		position: absolute;
+		width: 286px;
+		height: 191px;
+		left: 817px;
+		top: 20px;
+		display: none;
+		overflow: visible;
+	}
+	#Rectangle_1_c {
+		fill: rgba(255,255,255,1);
+	}
+	.Rectangle_1_c {
+		position: absolute;
+		overflow: visible;
+		width: 76px;
+		height: 39px;
+		left: 109px;
+		top: 89px;
+	}
+	#Sans_titre-1_c {
+		position: absolute;
+		width: 286px;
+		height: 191px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#TITLE {
+		position: absolute;
+		width: 790px;
+		height: 155px;
+		left: 565px;
+		top: 65px;
+		overflow: visible;
+	}
+	#Club_dchec_dAlenon {
+		left: 108px;
+		top: 47px;
+		position: absolute;
+		overflow: visible;
+		width: 575px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: PT Sans;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 60px;
+		color: rgba(255,255,255,1);
+	}
+	#Rectangle_5 {
+		fill: transparent;
+		stroke: rgba(255,255,255,1);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Rectangle_5 {
+		position: absolute;
+		overflow: visible;
+		width: 790px;
+		height: 155px;
+		left: 0px;
+		top: 0px;
+	}
