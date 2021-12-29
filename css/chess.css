@@ -11,3 +11,12 @@ body {
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 }
+
+#imgFond {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
