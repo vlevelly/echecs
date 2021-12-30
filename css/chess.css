@@ -1,12 +1,7 @@
-* {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-	border: none;
+* {	
 	font-family: PT Sans;
 }
 body {
-	/*background-color: rgba(255,255,255,1);*/
 	overflow: hidden;
 }
 
@@ -102,7 +97,7 @@ body {
 	font-style: italic;
 	font-weight: normal;
 	font-size: 48px;
-	color: rgba(33,25,33,1);
+	color: #211921;
 	text-transform: uppercase;
 	color: #ffffff;
 	-webkit-text-stroke-width: 1px;
@@ -120,7 +115,7 @@ body {
 	font-style: normal;
 	font-weight: normal;
 	font-size: 16px;
-	color: rgba(33,25,33,1);
+	color: #211921;
 }
 #championnat {
 	position: absolute;
@@ -144,7 +139,7 @@ body {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 22px;
-	color: rgba(33,25,33,1);
+	color: #211921;
 }
 #competition {
 	position: absolute;
@@ -176,7 +171,7 @@ body {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 22px;
-	color: rgba(33,25,33,1);
+	color: #211921;
 }
 #actus {
 	position: absolute;
@@ -208,7 +203,7 @@ body {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 22px;
-	color: rgba(33,25,33,1);
+	color: #211921;
 }
 
 #############################
@@ -267,5 +262,16 @@ body {
 	font-style: normal;
 	font-weight: normal;
 	font-size: 16px;
-	color: rgba(33,25,33,1);	
+	color: #211921;
+}
+
+##########################
+##### Section Footer #####
+##########################
+#footer {
+	height: 200px;
+	background-color: #211921;
+}
+#logo {
+
 }
