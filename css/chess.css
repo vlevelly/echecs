@@ -72,10 +72,10 @@ body {
 
 }
 
-###########################
-##### Partie centrale #####
-###########################
-#main {
+########################################
+##### Section "Découverte du club" #####
+########################################
+#decouverte {
 	width:  100%;
 	background-color: #ffffff;
 	height: 500px;
@@ -209,4 +209,63 @@ body {
 	font-weight: bold;
 	font-size: 22px;
 	color: rgba(33,25,33,1);
+}
+
+#############################
+##### Contenu principal #####
+#############################
+#main {
+	background-color: #ffffff;
+}
+
+#########################################
+##### Section "Inscription/Contact" #####
+#########################################
+#contact {
+	position: absolute;
+	width: 1548.743px;
+	height: 858.486px;
+	left: 274px;
+	top: 2084px;
+	overflow: visible;
+}
+.bg_clock {
+	opacity: 0.2;
+	position: absolute;
+	width: 479.486px;
+	height: 479.486px;
+	left: 1069.257px;
+	top: 379px;
+	overflow: visible;
+}
+#titreInscription {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 327px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: PT Sans;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 60px;
+	text-transform: uppercase;
+	color: #ffffff;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #000000;
+}
+#texteInscription{
+	left: 4px;
+	top: 97px;
+	position: absolute;
+	overflow: visible;
+	width: 967px;
+	height: 36px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(33,25,33,1);	
 }
